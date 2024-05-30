@@ -1,0 +1,9 @@
+configuration:
+    enable_two_stage: True
+    # models:{GOOGLENET, INCEPTION, MOBILENET_SMALL, MOBILENET_LARGE, SHUFFLENET, VGG19, RESNET18, RESNET34, RESNET50, RESNET101, RESNET152, DENSENET121, DENSENET169, DENSENET201, DENSENET161}
+    model: 'VGG19'
+    ratio_th: [0.9, 0.9, 0.9, 0.9, 0.95]
+    bidirectional: True
+    display_results: True
+    output_directory: 'results'
+  
