@@ -34,7 +34,7 @@ We provide two images from the scene St. Peter's Basilica in the dataset Megadep
 python3 test.py
 ```
 
-Of course, you can train your image pairs by changing the file address.
+Of course, you can try your own image pairs by changing the file address.
 
 
 # Experiments
@@ -50,3 +50,21 @@ For Megadepth, you can run:
 ```
 python3 eval_megadepth.py --data_root [your dataset root]
 ```
+
+
+# BibTeX citation
+
+If you use any ideas from the paper or code from this repo, please consider citing:
+
+```
+@article{zhou2023e3cm,
+  title={E3CM: Epipolar-constrained cascade correspondence matching},
+  author={Zhou, Chenbo and Su, Shuai and Chen, Qijun and Fan, Rui},
+  journal={Neurocomputing},
+  volume={559},
+  pages={126788},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+
