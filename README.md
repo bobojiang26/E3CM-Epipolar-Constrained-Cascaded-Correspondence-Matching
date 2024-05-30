@@ -1,5 +1,11 @@
 # E3CM-Epipolar-Constrained-Cascaded-Correspondence-Matching
 
+<div style="text-align: center;">
+  <h1>This is a centered header</h1>
+  <p>This is some centered text.</p>
+  <img src="path_to_image.jpg" alt="Centered Image" />
+</div>
+
 ![截图 2024-05-30 13-35-31](https://github.com/bobojiang26/E3CM-Epipolar-Constrained-Cascaded-Correspondence-Matching/assets/91231457/cd3c79fa-df6a-40e0-9509-9ffc31b02e24)
 
 [[Paper]](https://arxiv.org/pdf/2308.16555) 
@@ -10,7 +16,7 @@ Accurate and robust correspondence matching is of utmost importance for various 
 # News
 [2024-5-30] The code is released!
 
-# Set up
+# Installation
 To set up the environment, run:
 
 ```sh
