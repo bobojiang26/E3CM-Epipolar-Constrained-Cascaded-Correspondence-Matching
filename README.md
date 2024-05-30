@@ -16,6 +16,8 @@ Accurate and robust correspondence matching is of utmost importance for various 
 # News
 [2024-5-30] The code is released!
 
+[2023-8-31] The paper is accepted by Nerocomputing!
+
 # Installation
 To set up the environment, run:
 
