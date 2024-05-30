@@ -22,6 +22,8 @@ Accurate and robust correspondence matching is of utmost importance for various 
 To set up the environment, run:
 
 ```sh
+cd E3CM_deep_networks
+
 conda create -n e3cm
 
 conda activate e3cm
