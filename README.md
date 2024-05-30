@@ -28,4 +28,10 @@ pip install -r requirements.txt
 ```
 
 # Test
+We provide two images from the scene St. Peter's Basilica in the dataset Megadepth. You can test our model by running:
 
+```
+python3 test.py
+```
+
+Of course, you can train your image pairs by changing the file address.
