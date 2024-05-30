@@ -35,3 +35,18 @@ python3 test.py
 ```
 
 Of course, you can train your image pairs by changing the file address.
+
+
+# Experiments
+
+We also provide the evaluation code on HPatches and Megadepth.
+
+For HPatches, you can run:
+```
+python3 eval_hpatches.py --data_root [your dataset root]
+```
+
+For Megadepth, you can run:
+```
+python3 eval_megadepth.py --data_root [your dataset root]
+```
