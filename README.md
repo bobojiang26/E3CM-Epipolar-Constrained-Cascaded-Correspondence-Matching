@@ -3,7 +3,9 @@
 
 ![截图 2024-05-30 13-35-31](https://github.com/bobojiang26/E3CM-Epipolar-Constrained-Cascaded-Correspondence-Matching/assets/91231457/cd3c79fa-df6a-40e0-9509-9ffc31b02e24)
 
-<p align="center">([[Paper]](https://arxiv.org/pdf/2308.16555)) </p>
+<p align="center">
+  [[Paper]](https://arxiv.org/pdf/2308.16555))
+</p>
 
 
 # Abstract
