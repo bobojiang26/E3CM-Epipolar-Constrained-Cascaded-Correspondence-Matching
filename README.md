@@ -20,7 +20,12 @@ Accurate and robust correspondence matching is of utmost importance for various 
 To set up the environment, run:
 
 ```sh
-pip install -r requirements.txt
+conda create -n e3cm
 
+conda activate e3cm
+
+pip install -r requirements.txt
+```
 
 # Test
+
